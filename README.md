@@ -29,8 +29,6 @@
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
-### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
 
 
